@@ -1,4 +1,4 @@
 # Curriculo
-![](Modern_Curriculum.pdf)
+@import "https://github.com/rafarolfsen/Curriculo/blob/master/Modern_Curriculum.pdf"
 
 Currículo
