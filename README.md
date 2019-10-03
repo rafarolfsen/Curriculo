@@ -1,1 +1,1 @@
-![](https://github.com/rafarolfsen/Curriculo/blob/master/curriculo.png)
+![](https://github.com/rafarolfsen/Curriculo/blob/master/currículo.png)
